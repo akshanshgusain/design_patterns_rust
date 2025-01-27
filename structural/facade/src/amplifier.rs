@@ -12,6 +12,7 @@ pub struct Amplifier {
     this limitation.
 
     Use case: When multiple owners need to mutate the same value
+
     */
     level: i32,
 }
